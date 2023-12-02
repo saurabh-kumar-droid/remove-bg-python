@@ -1,4 +1,7 @@
-# import required modules
+# Dev:Saurabh Kumar
+# Date: 02/12/2023
+
+#import required modules
 from rembg import remove
 from PIL import Image
 
